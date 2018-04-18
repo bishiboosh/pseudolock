@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pseudo Lock Button</string>
+    <string name="admin_description">Remplace le bouton POWER</string>
+</resources>
